@@ -1,1 +1,1 @@
-# This repo contains assignments and practice questions covered during training 
+## This repository contains the assignment and practice work done during the training program. 
