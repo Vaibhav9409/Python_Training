@@ -1,1 +1,2 @@
-## This repository contains the assignment and practice work done during the training program. 
+# WK-Python
+Python Practise Hands-On Codes

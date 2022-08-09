@@ -1,0 +1,32 @@
+{
+        "patient_list": [
+                {
+                        "patient_id": 1,
+                        "firstname": "Mahendra Singh",
+                        "lastname": "Dhoni",
+                        "gender": "Male",
+                        "age": 38
+                },
+                {
+                        "patient_id": 2,
+                        "firstname": "lalu",
+                        "lastname": "Prasad",
+                        "gender": "Male",
+                        "age": 72
+                },
+                {
+                        "patient_id": 3,
+                        "firstname": "Pusha",
+                        "lastname": "Pushpraj",
+                        "gender": "Male",
+                        "age": 35
+                },
+                {
+                        "patient_id": 4,
+                        "firstname": "Virat",
+                        "lastname": "Kohli",
+                        "gender": "Male",
+                        "age": 36
+                }
+        ]
+}
